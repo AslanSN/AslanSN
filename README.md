@@ -3,21 +3,34 @@
 
 # About Me
 <p align="justify">
-    Greetings! I'm Aslan Staub Negro. I am a person who likes everything, very versatile and hybrid in discipline. I am passionate about both the user experience and the back-end of an application or website. 
+    Greetings! I'm Aslan Staub Negro. I am a person who likes everything, very versatile and hybrid in discipline. I am passionate about both front-end and back-end of an application or website. 
 </p>
 
+## Working on...
 <p align="justify">
-    I'm currently working on my final project at 4Geeks Academy, which will soon be released as a portfolio of my skills.
+    - I'm currently working on my final project at 4Geeks Academy, which will soon be released as a portfolio of my skills.
+</p>
+<p align="justify">
+    - Also in [Worksut](http://https://github.com/Worksut "Worksut") as front-end developer.
 </p>
 
+## 𝑴𝒚 𝑰𝒅𝒊𝒐𝒔𝒚𝒏𝒄𝒓𝒂𝒔𝒚
 <p align="justify">
     What makes me stand out from the rest is my ability to focus on the psychological experience of the user. As a big fan of philosophy and psychology, writing a book that covers both areas, I like to apply that knowledge and beliefs to my skills and projects as a developer.
 </p>
+
 
 <p align="justify">
      In programming, I am a perfectionist looking for the best Font-End design, intuitive and minimalist, even though keeping it personal. Methodical, always looking for efficiency in the Back-End. I have been praised for my neatness and my capacity of abstraction at functions.
 </p>
 
+### Hobbies
+<p align="justify">
+    I'm an enthusiast of all kinds of arts. Writer and poet, illustrator and music' lover. 
+</p>
+<p align="justify">
+   Writing my first book 🖋 of phylosophy 📖 and wellness 🧘‍♂, and starting my new blog about all kinds of stuff, focusing on spirituality and psychology. 
+</p>
 
 _Nice to meet you, AslanSN_
 
