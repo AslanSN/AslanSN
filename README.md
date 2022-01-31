@@ -3,7 +3,7 @@
 
 # About Me
 <p align="justify">
-    Greetings! I'm Aslan Staub Negro, I am a person who likes everything, very versatile and hybrid in discipline. I am passionate about both the user experience and the back-end of an application or website. 
+    Greetings! I'm Aslan Staub Negro. I am a person who likes everything, very versatile and hybrid in discipline. I am passionate about both the user experience and the back-end of an application or website. 
 </p>
 
 <p align="justify">
