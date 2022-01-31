@@ -11,7 +11,7 @@
     - I'm currently working on my final project at 4Geeks Academy, which will soon be released as a portfolio of my skills.
 </p>
 <p align="justify">
-    - Also in [Worksut](http://https://github.com/Worksut "Worksut") as front-end developer.
+    - Also in Worksut as front-end developer.
 </p>
 
 ## 𝑴𝒚 𝑰𝒅𝒊𝒐𝒔𝒚𝒏𝒄𝒓𝒂𝒔𝒚
