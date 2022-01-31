@@ -25,9 +25,8 @@ _Nice to meet you, AslanSN_
 # My Skills
 <p>
     <img src="https://github-readme-stats.vercel.app/api/?username=AslanSN&count_private=true&theme=radical&showicons=truecard_width=330" alt="GitHub Stats" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslanSN&layout=compact&langs_count=5&theme=radical&showicons&hide=c,meson,makefile,shell,dockerfile,m4" alt="Top Languages" align="top right" width="330">
-</p>
+</p>&nbsp;&nbsp;
 
- 
 ### Frontend Languages/Frameworks:
 
 <p align="justify">
