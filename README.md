@@ -1,18 +1,26 @@
 
+<img src="489068Top.png" alt="HeadBackground" width="100%">
 
 # About Me
+<p align="justify">
+    Greetings! I'm Aslan Staub Negro, I am a person who likes everything, very versatile and hybrid in discipline. I am passionate about both the user experience and the back-end of an application or website. 
+</p>
 
 <p align="justify">
+    I'm currently working on my final project at 4Geeks Academy, which will soon be released as a portfolio of my skills.
 </p>
 
-- <p align="justify">
+<p align="justify">
+    What makes me stand out from the rest is my ability to focus on the psychological experience of the user. As a big fan of philosophy and psychology, writing a book that covers both areas, I like to apply that knowledge and beliefs to my skills and projects as a developer.
 </p>
 
-- <p align="justify"></p>
+<p align="justify">
+     In programming, I am a perfectionist looking for the best Font-End design, intuitive and minimalist, even though keeping it personal. Methodical, always looking for efficiency in the Back-End. I have been praised for my neatness and my capacity of abstraction at functions.
+</p>
 
-- <p align="justify"></p>
 
-- <p align="justify"></p>
+_Nice to meet you, AslanSN_
+
 
 # My Skills
 <p>
@@ -51,3 +59,5 @@
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>&nbsp;&nbsp;
     <img src="https://img.icons8.com/fluency/48/000000/figma.png" alt="Figma"/>
 </p>
+
+<img src="489068Bot.png" alt="BotBackground" width="100%">
