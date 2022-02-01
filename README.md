@@ -39,7 +39,7 @@ _Nice to meet you, AslanSN_
 <p>
     <img src="https://github-readme-stats.vercel.app/api/?username=AslanSN&count_private=true&theme=radical&showicons=truecard_width=330" alt="GitHub Stats" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslanSN&layout=compact&langs_count=5&theme=radical&showicons&hide=c,meson,makefile,shell,dockerfile,m4" alt="Top Languages" align="top right" width="330">
 </p>&nbsp;&nbsp;
-
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AslanSN&theme=radical" alt="AslanSN" />
 ### Frontend Languages/Frameworks:
 
 <p align="justify">
