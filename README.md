@@ -8,25 +8,22 @@
 
 ## Working on...
 <p align="justify">
-    - I'm currently working on my final project at 4Geeks Academy, which will soon be released as a portfolio of my skills.
+    - I'm currently working on Íntegro, a brand new service for people as nexus between companies and people!
 </p>
 <p align="justify">
-    - Also in Worksut as front-end developer.
+    - I'm also learning by my self: Design (UX/UI), Rust and Flutter.
+    - I do have a very small work as a Web Scramping with Python.
 </p>
 
 ## 𝑴𝒚 𝑰𝒅𝒊𝒐𝒔𝒚𝒏𝒄𝒓𝒂𝒔𝒚
 <p align="justify">
-    What makes me stand out from the rest is my ability to focus on the psychological experience of the user. As a big fan of philosophy and psychology, writing a book that covers both areas, I like to apply that knowledge and beliefs to my skills and projects as a developer.
-</p>
-
-
-<p align="justify">
-     In programming, I am a perfectionist looking for the best Font-End design, intuitive and minimalist, even though keeping it personal. Methodical, always looking for efficiency in the Back-End. I have been praised for my neatness and my capacity of abstraction at functions.
+    I'm a very responsible worker as I am used to remote work. I do have interest in paying attention to detail and clean code, working on SOLID, E2, KISS, DRY and FOP and OOP principles.
+    What makes me stand out from the rest is my ability to focus on the psychological experience of the user. As a big fan of philosophy and psychology, writing a book that covers both areas, I like to apply that knowledge and beliefs to my skills and projects as a developer and the teams.
 </p>
 
 ### Hobbies
 <p align="justify">
-    I'm an enthusiast of all kinds of arts. Writer and poet, illustrator and music' lover. 
+    I'm an enthusiast of all kinds of arts. Writer and poet, illustrator and music lover. 
 </p>
 <p align="justify">
    Writing my first book 🖋 of phylosophy 📖 and wellness 🧘‍♂, and starting my new blog about all kinds of stuff, focusing on spirituality and psychology. 
