@@ -44,6 +44,7 @@ _Nice to meet you, AslanSN_
 
 <p align="justify">
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>&nbsp;&nbsp;
+     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png" alt="TypeScript"/>&nbsp;&nbsp;
     <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React"/>&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass"/>&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/jesus-cano-ortega/jesus-cano-ortega/3da1c622be307483c628aade394c82036f4a2f08/icons/bootstrap-logo-svg.svg" alt="Bootstrap"  width="48" height="48"/>&nbsp;&nbsp;
@@ -55,8 +56,7 @@ _Nice to meet you, AslanSN_
 ### Backend Languages/Frameworks:
 
 <p align="justify">
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png" alt="TypeScript"/>&nbsp;&nbsp;
-    <img src="https://img.icons8.com/fluency/50/000000/python.png" alt="Python"/>&nbsp;&nbsp;
+     <img src="https://img.icons8.com/fluency/50/000000/python.png" alt="Python"/>&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/jesus-cano-ortega/jesus-cano-ortega/3da1c622be307483c628aade394c82036f4a2f08/icons/flask-logo-svg.svg" alt="Flask" width="48" height="48"/>&nbsp;&nbsp;
     <img src="https://img.icons8.com/color/54/000000/nodejs.png" alt="NodeJs"/>&nbsp;&nbsp;
     <img src="https://img.icons8.com/fluency/60/000000/mysql-logo.png" alt="MySQL"/>
