@@ -11,8 +11,8 @@
     - I'm currently working on Íntegro, a brand new service for people as nexus between companies and people!
 </p>
 <p align="justify">
-    - I'm also learning by my self: Design (UX/UI), Rust and Flutter.
-    - I do have a very small work as a Web Scramping with Python.
+    - I'm also learning by my self: Design (UX/UI), Nextjs and Astro.
+    - I do have a small experience as a Web Scrapping with Python.
 </p>
 
 ## 𝑴𝒚 𝑰𝒅𝒊𝒐𝒔𝒚𝒏𝒄𝒓𝒂𝒔𝒚
