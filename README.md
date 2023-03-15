@@ -8,17 +8,19 @@
 
 ## Working on...
 <p align="justify">
-    - I'm currently working on Íntegro, a brand new service for people as nexus between companies and people!
+    - I'm currently working on Íntegro, a brand new service for people as nexus between companies and people! - Qwik, TypeScript React - Private Repository
+    - I'm also working doing memorizame, a learning app based on the supermemo learning algorythm. Its repository is private but I will tell you that it is on Svelte with Supabase using TypeScript and CSS, SASS.
 </p>
 <p align="justify">
-    - I'm also learning by my self: Design (UX/UI), Nextjs and Astro.
+<h3> Good to know </h3>
+    - I'm also learning by my self: Design (UX/UI), Expo and soon Flutter.<br>
     - I do have a small experience as a Web Scrapping with Python.
 </p>
 
 ## 𝑴𝒚 𝑰𝒅𝒊𝒐𝒔𝒚𝒏𝒄𝒓𝒂𝒔𝒚
 <p align="justify">
-    I'm a very responsible worker as I am used to remote work. I do have interest in paying attention to detail and clean code, working on SOLID, E2, KISS, DRY and FOP and OOP principles.
-    What makes me stand out from the rest is my ability to focus on the psychological experience of the user. As a big fan of philosophy and psychology, writing a book that covers both areas, I like to apply that knowledge and beliefs to my skills and projects as a developer and the teams.
+    I am passionate about dev and tech world, love to work with a team or alone, I do have interest in paying attention to detail and clean code, working on SOLID, E2, KISS, DRY and FOP and OOP principles.
+    What makes me stand out from the rest is my will to learn, to teach and to improve. As a big fan of philosophy and psychology, writing a book that covers both areas, I like to apply that knowledge and beliefs to my skills and projects as a developer and the teams.
 </p>
 
 ### Hobbies
