@@ -8,7 +8,7 @@
 
 ## Working on...
 <p align="justify">
-    - I'm currently working on Íntegro, a brand new service for people as nexus between companies and people! - Qwik, TypeScript React - Private Repository
+    - I'm currently working on Íntegro, a brand new service for people as nexus between companies and people! - Qwik, TypeScript React - Private Repository <br>
     - I'm also working doing memorizame, a learning app based on the supermemo learning algorythm. Its repository is private but I will tell you that it is on Svelte with Supabase using TypeScript and CSS, SASS.
 </p>
 <p align="justify">
