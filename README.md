@@ -35,12 +35,12 @@ _Nice to meet you, AslanSN_
 
 
 # My Skills
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/?username=AslanSN&count_private=true&theme=radical&showicons=truecard_width=330" alt="GitHub Stats" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AslanSN&layout=compact&langs_count=5&theme=radical&showicons&hide=c,meson,makefile,shell,dockerfile,m4" alt="Top Languages" align="top right" width="330">
-</p>&nbsp;&nbsp;
+
+![AslanSN's GitHub stats](https://github-readme-stats.vercel.app/api?username=AslanSN&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AslanSN&count_private=true&show_icons=true&theme=radical&layout=compact&hide=c,meson,makefile,shell,dockerfile,m4)](https://github.com/AslanSN/github-readme-stats)&nbsp;&nbsp;
 <p align="justify">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AslanSN&theme=radical" alt="AslanSN" />
-    </p>
+</p>
     
 ### Frontend Languages/Frameworks:
 
@@ -56,6 +56,7 @@ _Nice to meet you, AslanSN_
 </p>
 
 ### Backend Languages/Frameworks:
+
 
 <p align="justify">
      <img src="https://img.icons8.com/fluency/50/000000/python.png" alt="Python"/>&nbsp;&nbsp;
