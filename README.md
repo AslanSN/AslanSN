@@ -3,24 +3,23 @@
 
 # About Me
 <p align="justify">
-    Greetings! I'm Aslan Staub Negro. I am a person who likes everything, very versatile and hybrid in discipline. I am passionate about both front-end and back-end of an application or website. 
+    Greetings! I'm Aslan Staub Negro. I am a person who likes everything, very versatile and hybrid in discipline. I am passionate about software development. 
 </p>
 
 ## Working on...
 <p align="justify">
-    - I'm currently working on Íntegro, a brand new service for people as nexus between companies and people! - Qwik, TypeScript React - Private Repository <br>
-    - I'm also working doing memorizame, a learning app based on the supermemo learning algorythm. Its repository is private but I will tell you that it is on Svelte with Supabase using TypeScript and CSS, SASS.
+    - I'm currently working on Íntegro, a brand new service for people as nexus between companies and people! - Next, TypeScript - Private Repository <br>
+    - I'm also working doing memorizame, a learning app based on the supermemo learning algorythm. Its repository is private but I will tell you that it is on Svelte with Supabase using TypeScript and CSS, SASS. And nowadays an Expo React Native SDK is WIP.
 </p>
 <p align="justify">
 <h3> Good to know </h3>
-    - I'm also learning by my self: Design (UX/UI), Expo and soon Flutter.<br>
-    - I do have a small experience as a Web Scrapping with Python.
+    - I'm also learning by my self Go Templ with Echo and Tailwind, tech used for <a href="aslansn-cv.vercel.app"><b>web cv</b></a><br>
 </p>
 
 ## 𝑴𝒚 𝑰𝒅𝒊𝒐𝒔𝒚𝒏𝒄𝒓𝒂𝒔𝒚
 <p align="justify">
-    I am passionate about dev and tech world, love to work with a team or alone, I do have interest in paying attention to detail and clean code, working on SOLID, E2, KISS, DRY and FOP and OOP principles.
-    What makes me stand out from the rest is my will to learn, to teach and to improve. As a big fan of philosophy and psychology, writing a book that covers both areas, I like to apply that knowledge and beliefs to my skills and projects as a developer and the teams.
+    I am passionate about dev and tech world, love to work with a team or alone, I do have interest in paying attention to detail and clean code, working on SOLID, KISS, TDD, FOP and OOP principles.
+    What makes me stand out from the rest is my will to learn, to teach and to improve. My attention to detail guarantees the quality of the projects in which I participate.
 </p>
 
 ### Hobbies
@@ -28,7 +27,7 @@
     I'm an enthusiast of all kinds of arts. Writer and poet, illustrator and music lover. 
 </p>
 <p align="justify">
-   Writing my first book 🖋 of phylosophy 📖 and wellness 🧘‍♂, and starting my new blog about all kinds of stuff, focusing on spirituality and psychology. 
+   Writing my first book 🖋 of phylosophy 📖 and wellness 🧘‍♂, and doing a podcast about it focusing on spirituality and psychology. 
 </p>
 
 _Nice to meet you, AslanSN_
