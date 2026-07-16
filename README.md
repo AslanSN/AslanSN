@@ -10,7 +10,7 @@ I work **AI-native**: Claude Code, LLM agents and MCP are part of *how* I ship �
 
 > I came to engineering from **philosophy & psychology**. So before I attack a problem I ask whether it's *well-posed* — half the work is framing the question, not just answering it.
 
-🔭 **Recently at DEBOS** (smart-building SaaS): #1 net contributor to the codebase, sustained the frontend **solo for ~8 months**, and took over the cross-department delivery coordination the CTO used to run.
+🔭 **Recently at DEBOS** (smart-building SaaS): **owned frontend delivery**, sustained it **solo for ~8 months**, and took over the cross-department delivery coordination the CTO used to run.
 
 ## 🧰 Stack
 
