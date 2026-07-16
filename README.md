@@ -1,77 +1,46 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e5d53,100:5cc0af&height=200&section=header&text=Alan%20Staub%20Negro&fontColor=ffffff&fontSize=46&fontAlignY=40&desc=Senior%20Full-Stack%20Engineer%20%C2%B7%20AI-native&descSize=20&descAlignY=62" width="100%" alt="Alan Staub Negro — Senior Full-Stack Engineer, AI-native" />
+</div>
 
-<img src="489068Top.png" alt="HeadBackground" width="100%">
+## Hi, I'm Alan 👋
 
-# About Me
-<p align="justify">
-    Greetings! I'm Aslan Staub Negro. I am a person who likes everything, very versatile and hybrid in discipline. I am passionate about software development. 
-</p>
+Senior full-stack engineer (~4.5 years) who ships **end to end** — React 19 / Next.js + TypeScript on the front, a real **.NET / PostgreSQL** backend, plus the platform work that holds it together (CI/CD, testing, observability).
 
-## Working on...
-<p align="justify">
-    - I'm currently working on Íntegro, a brand new service for people as nexus between companies and people! - Next, TypeScript - Private Repository <br>
-    - I'm also working doing memorizame, a learning app based on the supermemo learning algorythm. Its repository is private but I will tell you that it is on Svelte with Supabase using TypeScript and CSS, SASS. And nowadays an Expo React Native SDK is WIP.
-</p>
-<p align="justify">
-<h3> Good to know </h3>
-    - I'm also learning by my self Go Templ with Echo and Tailwind, tech used for <a href="aslansn-cv.vercel.app"><b>web cv</b></a><br>
-</p>
+I work **AI-native**: Claude Code, LLM agents and MCP are part of *how* I ship — I authored my team's AI-engineering conventions (a `CLAUDE.md` + versioned review skills), not just used the tools.
 
-## 𝑴𝒚 𝑰𝒅𝒊𝒐𝒔𝒚𝒏𝒄𝒓𝒂𝒔𝒚
-<p align="justify">
-    I am passionate about dev and tech world, love to work with a team or alone, I do have interest in paying attention to detail and clean code, working on SOLID, KISS, TDD, FOP and OOP principles.
-    What makes me stand out from the rest is my will to learn, to teach and to improve. My attention to detail guarantees the quality of the projects in which I participate.
-</p>
+> I came to engineering from **philosophy & psychology**. So before I attack a problem I ask whether it's *well-posed* — half the work is framing the question, not just answering it.
 
-### Hobbies
-<p align="justify">
-    I'm an enthusiast of all kinds of arts. Writer and poet, illustrator and music lover. 
-</p>
-<p align="justify">
-   Writing my first book 🖋 of phylosophy 📖 and wellness 🧘‍♂, and doing a podcast about it focusing on spirituality and psychology. 
-</p>
+🔭 **Recently at DEBOS** (smart-building SaaS): #1 net contributor to the codebase, sustained the frontend **solo for ~8 months**, and took over the cross-department delivery coordination the CTO used to run.
 
-_Nice to meet you, AslanSN_
+## 🧰 Stack
 
+**Front**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-# My Skills
+**Back &amp; platform**  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-![AslanSN's GitHub stats](https://github-readme-stats.vercel.app/api?username=AslanSN&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AslanSN&count_private=true&show_icons=true&theme=radical&layout=compact&hide=c,meson,makefile,shell,dockerfile,m4)](https://github.com/AslanSN/github-readme-stats)&nbsp;&nbsp;
-<p align="justify">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AslanSN&theme=radical" alt="AslanSN" />
-</p>
-    
-### Frontend Languages/Frameworks:
+**AI-native**  
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-1F1F1F?style=for-the-badge)
 
-<p align="justify">
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>&nbsp;&nbsp;
-     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png" alt="TypeScript"/>&nbsp;&nbsp;
-    <img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React"/>&nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass"/>&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/jesus-cano-ortega/jesus-cano-ortega/3da1c622be307483c628aade394c82036f4a2f08/icons/bootstrap-logo-svg.svg" alt="Bootstrap"  width="48" height="48"/>&nbsp;&nbsp;
- <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-color-tal-revivo.png" alt="HTML5" />&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/jesus-cano-ortega/jesus-cano-ortega/3da1c622be307483c628aade394c82036f4a2f08/icons/css3-logo-svg.svg" alt="CSS3" height="48" width="48"/>
-    
-</p>
+## 🚀 Building
+- **[Personal CV site](https://aslansn-cv.vercel.app/)** — Go · Templ · HTMX · Tailwind.
+- **MiniDebos** — a modular .NET backend I built from scratch to go deep on the server side *(private)*.
 
-### Backend Languages/Frameworks:
+## 🌍 Beyond code
+Trilingual — Spanish (native) · French (bilingual) · English (professional) — remote-first from Mallorca.  
+Writing a book on philosophy &amp; wellbeing; into poetry, illustration and music.
 
+## 📫 Let's talk
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanstaubnegro/)
+[![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:aslan.staub@pm.me)
 
-<p align="justify">
-     <img src="https://img.icons8.com/fluency/50/000000/python.png" alt="Python"/>&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/jesus-cano-ortega/jesus-cano-ortega/3da1c622be307483c628aade394c82036f4a2f08/icons/flask-logo-svg.svg" alt="Flask" width="48" height="48"/>&nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/54/000000/nodejs.png" alt="NodeJs"/>&nbsp;&nbsp;
-    <img src="https://img.icons8.com/fluency/60/000000/mysql-logo.png" alt="MySQL"/>
-    
-</p>
-
-### Environments:
-
-<p align="justify">
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>&nbsp;&nbsp;
-    <img src="https://img.icons8.com/nolan/48/github.png" alt="GitHub"/>&nbsp;&nbsp;
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>&nbsp;&nbsp;
-    <img src="https://img.icons8.com/fluency/48/000000/figma.png" alt="Figma"/>
-</p>
-
-<img src="489068Bot.png" alt="BotBackground" width="100%">
+<div align="center">
+  <sub>— Alan</sub>
+</div>
