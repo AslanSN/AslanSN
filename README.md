@@ -4,7 +4,7 @@
 
 ## Hi, I'm Alan 👋
 
-Senior full-stack engineer (~4.5 years) who ships **end to end** — React 19 / Next.js + TypeScript on the front, a real **.NET / PostgreSQL** backend, plus the platform work that holds it together (CI/CD, testing, observability).
+Senior full-stack engineer (~5 years) who ships **end to end** — React 19 / Next.js + TypeScript on the front, a real **.NET / PostgreSQL** backend, plus the platform work that holds it together (CI/CD, testing, observability).
 
 I work **AI-native**: Claude Code, LLM agents and MCP are part of *how* I ship — I authored my team's AI-engineering conventions (a `CLAUDE.md` + versioned review skills), not just used the tools.
 
