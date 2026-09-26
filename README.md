@@ -31,7 +31,7 @@ I work **AI-native**: Claude Code, LLM agents and MCP are part of *how* I ship �
 
 ## 🚀 Building
 - **[Personal CV site](https://aslansn-cv.vercel.app/)** — Go · Templ · HTMX · Tailwind.
-- **MiniDebos** — a modular .NET backend I built from scratch to go deep on the server side *(private)*.
+- **[Forge](https://github.com/AslanSN/forge)** — a modular .NET backend I built from scratch to go deep on the server side *(private)*.
 
 ## 🌍 Beyond code
 Trilingual — Spanish (native) · French (bilingual) · English (professional) — remote-first from Mallorca.  
