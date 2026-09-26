@@ -34,7 +34,7 @@ I work **AI-native**: Claude Code, LLM agents and MCP are part of *how* I ship �
 - **[gotcha](https://github.com/AslanSN/gotcha)** — an AI-native engineering harness: a catalog of subtle bugs that compile and ship anyway, versioned agent skills, evals and an MCP server.
 - **[forge](https://github.com/AslanSN/forge)** — backend fundamentals from the metal up (.NET + Go): a concurrency-safe ledger, built do-it-wrong-first; from step 00b the implementation is typed by hand.
 - **[Memorízame](https://github.com/AslanSN/memorizame-v2)** — a science-grounded, accessible spaced-repetition study PWA (SvelteKit 2 · Svelte 5).
-- **Valkiara** — website for a large-scale portrait painter in Palma de Mallorca (Go · Templ, no JS beyond the essentials) *(private)*.
+- **[Valkiara](https://valkiara.com)** — website for a realist large-scale tattoo artist in Palma de Mallorca (Go · Templ, no JS beyond the essentials).
 - **[Personal CV site](https://aslansn-cv.vercel.app/)** — Go · Templ · Tailwind.
 
 ## 🌍 Beyond code
