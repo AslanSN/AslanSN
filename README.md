@@ -43,7 +43,7 @@ Long-running writing on philosophy applied to wellbeing, now turning into a podc
 
 ## 📫 Let's talk
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanstaubnegro/)
-[![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:aslan.staub@pm.me)
+[![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:aslan.staub@protonmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0e5d53?style=for-the-badge)](https://aslansn-cv.vercel.app/)
 
 <div align="center">
